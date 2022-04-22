@@ -1,0 +1,9 @@
+name: contributor-takes-action
+description: Test.
+author: Ed Carlos Marinho de Oliveira
+branding:
+  icon: 'paperclip'
+  color: 'white'
+runs:
+  using: 'docker'
+  image: 'ubuntu'
